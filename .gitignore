@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Proyecto-Análisis-Backend/FileContentIndex/100ec62b-a12e-4a53-94d7-c888032c0cce.vsidx
+/.vs/Proyecto-Análisis-Backend/CopilotIndices/17.14.939.21063
+*.vsidx
+/.vs/Proyecto-Análisis-Backend/FileContentIndex/1abfac2e-0039-4766-bc77-6b2ca009c1bf.vsidx
