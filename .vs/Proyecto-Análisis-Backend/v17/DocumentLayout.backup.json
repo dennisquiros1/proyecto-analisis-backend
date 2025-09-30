@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\models\\coordinadorcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\models\\coordinadorcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\models\\phatlanticocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\models\\phatlanticocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\models\\coordinadorseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\models\\coordinadorseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\models\\coordinadordocencium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\models\\coordinadordocencium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
@@ -19,12 +55,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Controllers\\RegistroController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:55:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoordinadorSeccion.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorSeccion.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorSeccion.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorSeccion.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorSeccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:50:22.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoordinadorDocencium.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorDocencium.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorDocencium.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorDocencium.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorDocencium.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:50:18.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoordinadorCarrera.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorCarrera.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorCarrera.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorCarrera.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Models\\CoordinadorCarrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:50:17.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PHAtlanticoContext.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Models\\PHAtlanticoContext.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Models\\PHAtlanticoContext.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Models\\PHAtlanticoContext.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Models\\PHAtlanticoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:49:49.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proyecto-An\u00E1lisis-Backend",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T03:41:13.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\appsettings.json",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\appsettings.json",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T03:31:28.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:06:10.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\WeatherForecast.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\WeatherForecast.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:06:04.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Proyecto-An\u00E1lisis-Backend.http",
               "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.http",
               "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.http",
               "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.http",
               "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-09-24T17:04:44.571Z",
               "EditorCaption": ""

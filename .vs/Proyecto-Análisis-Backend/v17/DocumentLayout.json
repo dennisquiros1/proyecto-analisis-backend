@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\controllers\\coordinadordocenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\controllers\\coordinadordocenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\controllers\\coordinadorcarreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\controllers\\coordinadorcarreracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\controllers\\coordinadorseccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\controllers\\coordinadorseccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|c:\\dev\\proyecto-an\u00E1lisis-backend\\proyecto-an\u00E1lisis-backend\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5CC346-C3BD-41C0-A7E3-0490A4C56E1B}|Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.csproj|solutionrelative:proyecto-an\u00E1lisis-backend\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CoordinadorDocenciaController.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorDocenciaController.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorDocenciaController.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorDocenciaController.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorDocenciaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T17:06:10.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\WeatherForecast.cs",
-              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\WeatherForecast.cs",
-              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T17:06:04.2Z",
+              "WhenOpened": "2025-09-30T04:28:53.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Proyecto-An\u00E1lisis-Backend.http",
-              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.http",
-              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.http",
-              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.http",
-              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend.http",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-09-24T17:04:44.571Z",
+              "Title": "CoordinadorSeccionController.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorSeccionController.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorSeccionController.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorSeccionController.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorSeccionController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:22:32.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoordinadorCarreraController.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorCarreraController.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorCarreraController.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorCarreraController.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Controllers\\CoordinadorCarreraController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:17:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Proyecto-An\u00E1lisis-Backend\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Dev\\Proyecto-An\u00E1lisis-Backend\\Proyecto-An\u00E1lisis-Backend\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Proyecto-An\u00E1lisis-Backend\\Controllers\\RegistroController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:55:23.18Z",
               "EditorCaption": ""
             }
           ]
